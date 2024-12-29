@@ -22,7 +22,7 @@
 ## ⚡ Terminal Access:
 ```
 $ pixelle3 --start
->> Welcome to the Revolution.
+>> Welcome to Pixelle3.
 ```
 
 
