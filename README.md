@@ -1,4 +1,4 @@
- > _"Control is an illusion."_ – Mr. Robot
+> _"Control is an illusion."_ – Mr. Robot
 
  # 💫 About Me:
  🛠 I'm currently working on<br>Creating modern, user-friendly, and responsive websites for businesses and individuals under Pixelle 3. Our mission is to bring digital visions to life with clean and functional designs.<br><br>🤝 I'm looking to collaborate on<br>Projects that require innovative web design solutions, full-stack development, or improving digital presence for brands and startups.<br><br>👐 I'm looking for help with<br>Growing our network, exploring new technologies, and finding potential clients who value modern, professional websites.<br><br>🏆 I'm currently learning<br>Cutting-edge web technologies such as Next.js, AI integrations in web development, and enhancing website performance.<br><br>💬 Ask me about<br>Website design trends, full-stack development, branding through web presence, and how we at Pixelle 3 can help build your ideal digital platform.<br><br>⚡ Fun fact<br>We believe that a great website is not just about looks but also functionality and delivering an exceptional user experience!
